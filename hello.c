@@ -5,6 +5,7 @@
 int main(void) // The "void" is the parameter we are passing. In this case, nothing.
 {
     printf("Hello,world!\n"); // Most statements in C end with a semicolon.
+    printf("Welcome to Intro to C");
 }
 
 //  $ gcc -o hello hello.c
